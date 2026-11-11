@@ -1,0 +1,15 @@
+# 1) https://my.telegram.org -> API development tools -> создать приложение
+TG_API_ID=
+TG_API_HASH=
+
+# 2) Токен бота от @BotFather (команда /newbot)
+BOT_TOKEN=
+
+# Часовой пояс для дат в уведомлениях и для целей
+TZ_NAME=Europe/Moscow
+
+# Во сколько напоминать, если при создании цели время не указано
+DEFAULT_REMINDER_TIME=09:00
+
+# Писать «Бот запущен» после старта (1 — да, 0 — нет)
+NOTIFY_ON_START=1
